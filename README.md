@@ -2,3 +2,4 @@
 División: <116>
 Turno: <Mañana>
 Alumno: <Luciano-Nicolas-Torres-Tonkowicz>
+Alumno: <Luciano Nicolas Torres Tonkowicz>
