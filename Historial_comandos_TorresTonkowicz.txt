@@ -345,3 +345,8 @@ history -a
 cp ~/.bash_history ./Historial_comandos_Apellido.txt
 git add .
 rm ./Historial_comandos_Apellido.txt
+cp ~/.bash_history ./Historial_comandos_TorresTonkowicz.txt
+git add .
+git commit -m "ADD: Historial de comandos de TorresTonkowicz"
+git push
+history -a
