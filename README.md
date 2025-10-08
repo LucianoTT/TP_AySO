@@ -1,5 +1,4 @@
-# TP_AySOAlumno: <Luciano-Nicolas-Torres-Tonkowicz>
-División: <116>
-Turno: <Mañana>
-Alumno: <Luciano-Nicolas-Torres-Tonkowicz>
-Alumno: <Luciano Nicolas Torres Tonkowicz>
+TP_AySO
+Alumno: Luciano Nicolas Torres Tonkowicz
+Division: 116
+Turno: Mañana
